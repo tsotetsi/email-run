@@ -1,5 +1,5 @@
-# django-seed
-Django boilerplate.
+# mail-run
+Email As A Service - API.
 
 ## Setup development environment.
 
@@ -7,7 +7,7 @@ Django boilerplate.
 ## Init project.
     The following command will install all project dependencies.
 
-    `pip install -e .`
+    `pip3 install -e .`
 
 
 ## Running tests.

@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='project',
+    name='mail-run',
     version='0.0.1',
     description='Mail Service API',
     author='Thapelo Tsotetsi',
